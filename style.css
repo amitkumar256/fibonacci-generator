@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+
+}
+h1{
+    margin-bottom: 50px;
+    margin-left: 550px;
+}
+.main{
+    margin-left: 650px;
+    margin-top: 200px;
+    background-color: bisque;
+    width: 170px;
+    height: 80px;
+}
+#para
+{
+    margin-left:650px ;
+    font-size: large;
+}
